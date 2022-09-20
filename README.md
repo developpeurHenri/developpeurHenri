@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @developpeurHenri
+- je suis developpeur Python Django
+- passionné il y a quelques années
+- la démoonstration pratique vaut mieux que les beaux Discours
